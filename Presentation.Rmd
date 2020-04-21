@@ -16,7 +16,7 @@ subtitle: For the United States
 ## Overview
 This is an RStudio shiny application developed as a part of final project in the Developing Data Products course in Coursera Data Science Specialization track. The application is a dashboard to monitor COVID-19 situation in the United States.
 
-### See the Regression Models Course Project  
+### Essential links
 
 - GitHub Repo for R files: *https://github.com/shossainghub/Developing-Data-Products*
 - Rpub link for Presentation: *https://rpubs.com/shahadat_099/602466*
